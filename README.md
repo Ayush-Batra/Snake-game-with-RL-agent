@@ -19,7 +19,7 @@ This will initialize the agent and start training it by playing the Snake game.
 
 The agent will play the game for a number of episodes, and the progress will be plotted using the helper plot function.
 
-As the agent plays, it will learn the optimal actions to take in each state, and the plot will show the agent's progress in terms of the average score over the last 100 episodes.
+As the agent plays, it will learn the optimal actions to take in each state, and the plot will show the agent's progress in terms of the average score and the current score.
 
 Once the agent reaches the desired level of performance, you can use the trained model to play the game.
 
