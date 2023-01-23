@@ -23,3 +23,5 @@ Once the agent reaches the desired level of performance, you can use the trained
 
 # Note
 This is a basic implementation of Q-learning agent for Snake game and thus the agent might not perform well or might not converge due to various reasons like Hyperparameter tuning, model architecture etc. 
+
+Weights stored in ./model directory
