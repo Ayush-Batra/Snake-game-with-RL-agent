@@ -8,7 +8,9 @@
 
 **model.py**: Contains the implementation of the Q-network, which is a simple linear model.
 
-**helper.py**: contains the method for plotting the agent's progress.
+**helper.py**: Contains the method for plotting the agent's progress.
+
+**snake.py**: Contains the snake game for human to play :)
 
 # How to use
 Run the agent.py file. 
