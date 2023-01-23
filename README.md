@@ -12,6 +12,10 @@
 
 **snake.py**: Contains the snake game for human to play :)
 
+**graph.png**: Contains a snapshot of the graph depicting the score and the game
+
+**RL_train.mp4**: Contains a video of showing the snake training and the corresponding graph
+
 # How to use
 Run the agent.py file. 
 
